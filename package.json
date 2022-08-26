@@ -1,0 +1,23 @@
+{
+  "name": "news-api",
+  "version": "1.0.0",
+  "description": "PAI do sistema de noticias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "news",
+    "noticias",
+    "categorias"
+  ],
+  "author": "Clayton Salvador",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
